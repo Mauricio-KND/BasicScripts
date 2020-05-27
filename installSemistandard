@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Install semistandard on a web server.
+sudo npm install semistandard --global

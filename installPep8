@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Install pep8 on a web server.
+sudo apt-get -y install python3-pep8

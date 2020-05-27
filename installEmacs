@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Install emacs on a web server.
+sudo apt-get -y update
+sudo apt-get -y upgrade
+sudo apt-get -y install emacs

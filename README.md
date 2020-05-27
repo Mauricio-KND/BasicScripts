@@ -1,2 +1,2 @@
 # Basic Scripts
-There are some scripts usful for servers.
+There are some useful scripts for servers.

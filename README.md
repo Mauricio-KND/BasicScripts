@@ -1,2 +1,2 @@
 # Basic Scripts
-There are some useful scripts for servers.
+There are some useful scripts for stting up servers.
